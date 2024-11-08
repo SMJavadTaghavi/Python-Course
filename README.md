@@ -18,3 +18,5 @@ Instagreram : https://www.instagram.com/seniorcoderr?utm_source=ig_web_button_sh
 Tel_channel : https://t.me/+px1ed68pPFNjNWY0
 
 Session course link notebook: 
+
+S1 : https://colab.research.google.com/drive/1ftopsqJwzAVBXpeN-qyTW6Ql4AzqCPuY?usp=sharing
