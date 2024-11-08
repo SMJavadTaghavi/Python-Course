@@ -11,7 +11,7 @@ Often, programmers fall in love with Python because of the increased productivit
 
 Github link : https://github.com/SMJavadTaghavi/Python-Course/tree/main
 
-Yuotube : https://youtube.com/@senior.coderr?si=JLSvI59YjRDpihu5
+Youtube : https://youtube.com/@senior.coderr?si=JLSvI59YjRDpihu5
 
 Instagreram : https://www.instagram.com/seniorcoderr?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
 
