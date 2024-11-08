@@ -1,6 +1,7 @@
 ![FREE-Python-Course-For-Beginners](https://github.com/user-attachments/assets/e039d929-12eb-41b8-917c-df1fcbaa4a64)
 
 # Python Course
+## Presented by : senior coder shiraz
 Pleas checked a Table of content python course (Ai basic)
 
 What is Python? 
@@ -9,5 +10,6 @@ Python is an interpreted, object-oriented, high-level programming language with 
 Often, programmers fall in love with Python because of the increased productivity it provides. Since there is no compilation step, the edit-test-debug cycle is incredibly fast. Debugging Python programs is easy: a bug or bad input will never cause a segmentation fault. Instead, when the interpreter discovers an error, it raises an exception. When the program doesn't catch the exception, the interpreter prints a stack trace. A source level debugger allows inspection of local and global variables, evaluation of arbitrary expressions, setting breakpoints, stepping through the code a line at a time, and so on. The debugger is written in Python itself, testifying to Python's introspective power. On the other hand, often the quickest way to debug a program is to add a few print statements to the source: the fast edit-test-debug cycle makes this simple approach very effective.
 
 Github link : https://github.com/SMJavadTaghavi/Python-Course/tree/main
+Yuotube : https://youtube.com/@senior.coderr?si=JLSvI59YjRDpihu5
 
 Session course link notebook: 
