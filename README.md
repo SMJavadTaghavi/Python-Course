@@ -19,4 +19,6 @@ Tel_channel : https://t.me/+px1ed68pPFNjNWY0
 
 Session course link notebook: 
 
+S0 : https://colab.research.google.com/drive/1ftopsqJwzAVBXpeN-qyTW6Ql4AzqCPuY?usp=sharing
 S1 : https://colab.research.google.com/drive/1ftopsqJwzAVBXpeN-qyTW6Ql4AzqCPuY?usp=sharing
+S2 : https://colab.research.google.com/drive/1ftopsqJwzAVBXpeN-qyTW6Ql4AzqCPuY?usp=sharing
