@@ -27,4 +27,6 @@ S2 : https://colab.research.google.com/drive/1ftopsqJwzAVBXpeN-qyTW6Ql4AzqCPuY?u
 
 S3 : https://colab.research.google.com/drive/1ftopsqJwzAVBXpeN-qyTW6Ql4AzqCPuY?usp=sharing
 
-Ex1: https://colab.research.google.com/drive/1Gpcd1sDaixYC1gOe3r0evDcBSkOxcU-s?usp=sharing
+    ExercisesCourse: 
+
+       Ex1: https://colab.research.google.com/drive/1Gpcd1sDaixYC1gOe3r0evDcBSkOxcU-s?usp=sharing
