@@ -30,3 +30,9 @@ S3 : https://colab.research.google.com/drive/1ftopsqJwzAVBXpeN-qyTW6Ql4AzqCPuY?u
     ExercisesCourse: 
 
        Ex1: https://colab.research.google.com/drive/1Gpcd1sDaixYC1gOe3r0evDcBSkOxcU-s?usp=sharing
+
+S4 : https://colab.research.google.com/drive/1ftopsqJwzAVBXpeN-qyTW6Ql4AzqCPuY?usp=sharing
+
+S5 : https://colab.research.google.com/drive/1ftopsqJwzAVBXpeN-qyTW6Ql4AzqCPuY?usp=sharing
+
+S6 : https://colab.research.google.com/drive/1ftopsqJwzAVBXpeN-qyTW6Ql4AzqCPuY?usp=sharing
