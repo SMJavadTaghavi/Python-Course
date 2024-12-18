@@ -81,7 +81,7 @@ Often, programmers fall in love with Python because of the increased productivit
 - Get prepared for **advanced topics**: Machine Learning, Data Science, and AI.
 
 ---
-link:
+# **link:**
 
  Github link : https://github.com/SMJavadTaghavi/Python-Course/tree/main
  
@@ -93,7 +93,7 @@ link:
 
 ---
 
-Session course link notebook: 
+# **Session course link notebook:**
 
 S0 : https://colab.research.google.com/drive/1ftopsqJwzAVBXpeN-qyTW6Ql4AzqCPuY?usp=sharing
 
